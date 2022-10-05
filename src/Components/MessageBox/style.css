@@ -1,0 +1,55 @@
+.rect{
+    display: inline-block;
+    width: 15em;
+    /* height: 3em; */
+    /* max-height: 100px; */
+    padding: 10px;
+    margin: 10px 0px;
+
+    /* border: 2px solid BLACK; */
+
+  }
+
+.messageauthor{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 5px;
+    background: white;
+    padding: 12px;
+    box-shadow: 0px 20px 10px -1.25em rgba(0, 0, 0, 0.60);
+    position:inline-block;
+    vertical-align: middle;
+}
+
+.messagebody{
+    font-size: 13px;
+    text-align: left;
+    border-radius: 5px;
+    background: white;
+    padding: 12px;
+    box-shadow: 0px 20px 10px -1.25em rgba(0, 0, 0, 0.60);
+    position:inline-block;
+    vertical-align: middle;
+}
+
+.messagebox{
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 5px;
+  position:relative;
+  padding: 12px;
+}
+
+.rect2{
+    position: relative;
+    /* height: 3em; */
+    /* max-height: 100px; */
+    width: 20em;
+    padding: 10px;
+    margin: 10px 0px;
+    display: block;
+    /* border: 2px solid BLACK; */
+
+  }
